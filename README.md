@@ -44,7 +44,7 @@ different scenes and the validation set contains of 888 frames. The test set con
 
 ## Usage
 
-Training: `python train.py --data nyu --gpus 4 --bs 8`
+Training: `python train.py --data nyu --gpus 1 --bs 8`
 
 Testing: `python test.py`
 
