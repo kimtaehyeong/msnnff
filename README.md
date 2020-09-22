@@ -64,11 +64,24 @@ Evaluate: `python evaluate.py`
 
 ![roc-auc](images/depth4.png)
 
+Figure 2: Qualitative comparison of the estimated depth map on the NYU v2 dataset. Color indicates
+depth (red is far, blue is close). First row: RGB image, second row: Ground Truth depth map, third
+row: Results of our proposed method
+
 ### Results for predicted image on Kitti dataset
 
 ![roc-auc](images/depth1.png)
 
+Figure 3: The output predictions of our network on test image number 1. First row: input image,
+second row: ground truth depth map, third row: model prediction depth map. Color indicates depth
+(red is far, blue is close).
+
 ![roc-auc](images/depth2.png)
+
+Figure 4: The output predictions of our network on test image number 5. First row: input image,
+second row: ground truth depth map, third row: model prediction depth map. Color indicates depth
+(red is far, blue is close). Our network fails to detect person in front of the car as well as the person in
+the bottom left corner.
 
 ## License
 
