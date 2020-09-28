@@ -83,6 +83,19 @@ second row: ground truth depth map, third row: model prediction depth map. Color
 (red is far, blue is close). Our network fails to detect person in front of the car as well as the person in
 the bottom left corner.
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+```
+@article{sagar2020monocular,
+  title={Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion},
+  author={Sagar, Abhinav},
+  journal={arXiv preprint arXiv:2009.09934},
+  year={2020}
+}
+```
+
 ## License
 
 ```
