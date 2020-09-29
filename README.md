@@ -87,6 +87,8 @@ the bottom left corner.
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020monocular,
   title={Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion},
@@ -95,6 +97,10 @@ If you find this code useful in your research, please consider citing the paper:
   year={2020}
 }
 ```
+
+APA:
+
+`Sagar, A. (2020). Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion. arXiv preprint arXiv:2009.09934.`
 
 ## License
 
