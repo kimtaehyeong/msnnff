@@ -1,7 +1,7 @@
 # Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion
 Code for the paper `Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/depth.pdf).
+Link to [Paper](https://arxiv.org/pdf/2009.09934).
 
 ## Abstract
 
