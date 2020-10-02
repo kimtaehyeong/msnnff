@@ -98,7 +98,7 @@ BibTex:
 }
 ```
 
-MLA:
+APA:
 
 `Sagar, A. (2020). Monocular Depth Estimation Using Multi Scale Neural Network And Feature Fusion. arXiv preprint arXiv:2009.09934.`
 
